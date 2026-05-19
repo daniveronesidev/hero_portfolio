@@ -110,7 +110,7 @@ Main palette:
 
 # ✦ Author
 
-## Daniele Veronese
+## Daniele Veronesi
 
 Front-end developer and creative director focused on:
 - Cinematic interfaces
